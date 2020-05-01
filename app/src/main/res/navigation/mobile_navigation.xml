@@ -30,6 +30,6 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.srivatsa.weatherforecast.ui.settings.SettingsFragmant"
+        android:name="com.srivatsa.weatherforecast.ui.settings.SettingsFragment"
         android:label="SettingsFragment" />
 </navigation>
